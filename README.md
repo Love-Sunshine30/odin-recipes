@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project in the Odin Project. I hope to learn many things here.
